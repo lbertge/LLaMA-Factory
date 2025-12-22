@@ -1,4 +1,26 @@
 {
+  "resource_allocation_train": {
+    "file_name": "resource_allocation_train.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "or_llm_synthetic": {
+    "file_name": "or_llm_synthetic.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "nlm_optimizer": {
+    "file_name": "nlm_optimizer.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
   "identity": {
     "file_name": "identity.json"
   },
@@ -730,5 +752,152 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "curriculum_stage_1": {
+    "file_name": "curriculum_stage_1.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_2": {
+    "file_name": "curriculum_stage_2.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_3": {
+    "file_name": "curriculum_stage_3.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_4": {
+    "file_name": "curriculum_stage_4.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_5": {
+    "file_name": "curriculum_stage_5.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_6": {
+    "file_name": "curriculum_stage_6.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_7": {
+    "file_name": "curriculum_stage_7.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_8": {
+    "file_name": "curriculum_stage_8.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_9": {
+    "file_name": "curriculum_stage_9.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_stage_10": {
+    "file_name": "curriculum_stage_10.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_1": {
+    "file_name": "curriculum_v2_stage_1.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_2": {
+    "file_name": "curriculum_v2_stage_2.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_3": {
+    "file_name": "curriculum_v2_stage_3.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_4": {
+    "file_name": "curriculum_v2_stage_4.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_5": {
+    "file_name": "curriculum_v2_stage_5.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_6": {
+    "file_name": "curriculum_v2_stage_6.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_7": {
+    "file_name": "curriculum_v2_stage_7.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_8": {
+    "file_name": "curriculum_v2_stage_8.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_9": {
+    "file_name": "curriculum_v2_stage_9.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_stage_10": {
+    "file_name": "curriculum_v2_stage_10.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v2_full": {
+    "file_name": "curriculum_v2_full.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
   }
 }
