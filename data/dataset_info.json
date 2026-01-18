@@ -935,20 +935,6 @@
       "response": "output"
     }
   },
-  "curriculum_v3_stage_2": {
-    "file_name": "curriculum_v3_stage_2.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v3_stage_9": {
-    "file_name": "curriculum_v3_stage_9.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
   "curriculum_v3_stage_1": {
     "file_name": "curriculum_v3_stage_1.json",
     "columns": {
@@ -956,22 +942,8 @@
       "response": "output"
     }
   },
-  "curriculum_v3_stage_7": {
-    "file_name": "curriculum_v3_stage_7.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v3_stage_10": {
-    "file_name": "curriculum_v3_stage_10.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v3_stage_6": {
-    "file_name": "curriculum_v3_stage_6.json",
+  "curriculum_v3_stage_2": {
+    "file_name": "curriculum_v3_stage_2.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
@@ -984,13 +956,6 @@
       "response": "output"
     }
   },
-  "curriculum_v3_stage_5": {
-    "file_name": "curriculum_v3_stage_5.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
   "curriculum_v3_stage_4": {
     "file_name": "curriculum_v3_stage_4.json",
     "columns": {
@@ -998,8 +963,50 @@
       "response": "output"
     }
   },
+  "curriculum_v3_stage_5": {
+    "file_name": "curriculum_v3_stage_5.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v3_stage_6": {
+    "file_name": "curriculum_v3_stage_6.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v3_stage_7": {
+    "file_name": "curriculum_v3_stage_7.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
   "curriculum_v3_stage_8": {
     "file_name": "curriculum_v3_stage_8.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v3_stage_9": {
+    "file_name": "curriculum_v3_stage_9.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v3_stage_10": {
+    "file_name": "curriculum_v3_stage_10.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "curriculum_v3_full_1_9": {
+    "file_name": "curriculum_v3_full_1_9.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
