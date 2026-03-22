@@ -1,4 +1,18 @@
 {
+  "binding_train_2_11": {
+    "file_name": "binding_train_2_11.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "binding_eval_2_11": {
+    "file_name": "binding_eval_2_11.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
   "curriculum_v3_stage_1": {
     "file_name": "curriculum_v3_stage_1.json",
     "columns": {
