@@ -6,7 +6,7 @@ trust_remote_code: true
 stage: sft
 do_train: true
 finetuning_type: full
-deepspeed: examples/deepspeed/ds_z3_offload_config.json
+deepspeed: examples/deepspeed/ds_z3_config.json
 
 ### dataset
 dataset: binding_train_2_11
