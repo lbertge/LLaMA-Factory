@@ -879,27 +879,6 @@
       "response": "output"
     }
   },
-  "curriculum_v2_stage_2": {
-    "file_name": "curriculum_v2_stage_2.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v2_stage_3": {
-    "file_name": "curriculum_v2_stage_3.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v2_stage_4": {
-    "file_name": "curriculum_v2_stage_4.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
   "curriculum_v2_stage_5": {
     "file_name": "curriculum_v2_stage_5.json",
     "columns": {
@@ -944,13 +923,6 @@
   },
   "curriculum_v2_full": {
     "file_name": "curriculum_v2_full.json",
-    "columns": {
-      "prompt": "instruction",
-      "response": "output"
-    }
-  },
-  "curriculum_v3_stage_1": {
-    "file_name": "curriculum_v3_stage_1.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
@@ -1021,6 +993,62 @@
   },
   "curriculum_v3_full_1_9": {
     "file_name": "curriculum_v3_full_1_9.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "binding_train_transportation": {
+    "file_name": "binding_train_transportation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "binding_eval_transportation": {
+    "file_name": "binding_eval_transportation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "binding_train_jssp": {
+    "file_name": "binding_train_jssp.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "binding_eval_jssp": {
+    "file_name": "binding_eval_jssp.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "e2e_train_transportation": {
+    "file_name": "e2e_train_transportation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "e2e_eval_transportation": {
+    "file_name": "e2e_eval_transportation.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "e2e_train_jssp": {
+    "file_name": "e2e_train_jssp.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output"
+    }
+  },
+  "e2e_eval_jssp": {
+    "file_name": "e2e_eval_jssp.json",
     "columns": {
       "prompt": "instruction",
       "response": "output"
