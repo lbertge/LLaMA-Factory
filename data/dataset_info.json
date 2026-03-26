@@ -1053,5 +1053,69 @@
       "prompt": "instruction",
       "response": "output"
     }
+  },
+  "binding_train_transportation_prose": {
+    "file_name": "binding_train_transportation_prose.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "e2e_train_transportation_prose": {
+    "file_name": "e2e_train_transportation_prose.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "binding_train_jssp_prose": {
+    "file_name": "binding_train_jssp_prose.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "e2e_train_jssp_prose": {
+    "file_name": "e2e_train_jssp_prose.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "binding_train_transportation_capped": {
+    "file_name": "binding_train_transportation_capped.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "e2e_train_transportation_capped": {
+    "file_name": "e2e_train_transportation_capped.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "binding_eval_transportation_capped": {
+    "file_name": "binding_eval_transportation_capped.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
+  },
+  "e2e_eval_transportation_capped": {
+    "file_name": "e2e_eval_transportation_capped.json",
+    "columns": {
+      "prompt": "instruction",
+      "query": "input",
+      "response": "output"
+    }
   }
 }
